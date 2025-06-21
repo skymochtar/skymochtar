@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./img/anime-live-wallpapers-iphone-4k-7614-ezgif.com-resize (2).gif" alt="GIF 1" width="410">
+      <img src="./img/anime-live-wallpapers-iphone-4k-7614-ezgif.com-resize (2).gif" alt="GIF 1" width="390">
     </td>
     <td align="center">
-      <img src="./img/konosuba-live-wallpapers-4k-5786-ezgif.com-resize.gif" alt="GIF 2" width="410">
+      <img src="./img/konosuba-live-wallpapers-4k-5786-ezgif.com-resize.gif" alt="GIF 2" width="390">
     </td>
   </tr>
 </table>
