@@ -1,12 +1,12 @@
 ## Hello World! I'm Mochtario D.W 👋✌️
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="./img/anime-live-wallpapers-iphone-4k-7614-ezgif.com-resize (2).gif" alt="GIF 1" width="350">
+    <td align="center" width="50%">
+      <img src="./img/anime-live-wallpapers-iphone-4k-7614-ezgif.com-resize (2).gif" alt="GIF 1" width="100%">
     </td>
-    <td align="center">
-      <img src="./img/konosuba-live-wallpapers-4k-5786-ezgif.com-resize.gif" alt="GIF 2" width="350">
+    <td align="center" width="50%">
+      <img src="./img/anime-live-wallpapers-iphone-4k-7614-ezgif.com-resize (2).gif" alt="GIF 2" width="100%">
     </td>
   </tr>
 </table>
