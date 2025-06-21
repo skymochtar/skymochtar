@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Mochtario D.W 👋✌️
+
+![Madam Herta](img/anime-live-wallpapers-iphone-4k-7614-ezgif.com-video-to-gif-converter.gif)
 
 <!--
 **skymochtar/skymochtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Flutter**
